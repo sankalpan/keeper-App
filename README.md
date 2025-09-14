@@ -18,11 +18,9 @@ Data persisted in localStorage (no backend required) — plug in an API later if
 
 Frontend: React (Create React App / Vite)
 
-Styling: CSS / Tailwind / Bootstrap (your choice)
+Styling: CSS  / Bootstrap (your choice)
 
-Storage: localStorage (client-side)
 
-(Optional) Backend: Node.js + Express + MongoDB for persistent server storage
 
 
 🧪 Install & Run (if using React)
